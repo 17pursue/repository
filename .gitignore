@@ -1,0 +1,40 @@
+# ---- 操作系统生成的文件 ----
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+
+# ---- 编辑器 / IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.project
+.classpath
+.settings/
+*.iml
+
+# ---- 日志与临时文件 ----
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# ---- 系统锁文件 ----
+lock
